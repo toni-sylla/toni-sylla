@@ -13,6 +13,8 @@
 ___
 Thats my dog JD, named after the character JD from the TV Show Scrubs
 
-<img src="https://github.com/toni-sylla/toni-sylla/assets/170112184/772ba617-34e2-427f-995c-95a20945a1cf" width="500" />
+<img src="https://github.com/toni-sylla/toni-sylla/assets/170112184/772ba617-34e2-427f-995c-95a20945a1cf" width="300" />
+<img src="https://github.com/toni-sylla/toni-sylla/assets/170112184/a35c17df-0745-47fc-b4b8-6f447261815c" width=200" />!
+
 
 
