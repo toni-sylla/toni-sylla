@@ -13,7 +13,6 @@
 ___
 Thats my dog JD, named after the character JD from the TV Show Scrubs
 
-![JD](https://github.com/toni-sylla/toni-sylla/assets/170112184/772ba617-34e2-427f-995c-95a20945a1cf)
+<img src="https://github.com/toni-sylla/toni-sylla/assets/170112184/772ba617-34e2-427f-995c-95a20945a1cf" width="500" />
 
-<!-- "Hero" Header -->
 
