@@ -1,4 +1,4 @@
-#Its me
+# Its me
 👋 Hi, I’m @toni-sylla
 👀 I’m interested in Frontend Design
 🌱 I’m currently learning how to code at neuefische coding bootcamp!
